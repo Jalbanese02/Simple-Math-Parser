@@ -7,4 +7,4 @@ It currently has a very simple interface for testing purposes. Compile the file 
 
 ./name-of-the-executeable "2+2"
 
-to evaluate the expression "2+2".
+to evaluate the expression 2+2.
