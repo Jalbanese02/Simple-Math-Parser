@@ -5,5 +5,6 @@ a user interface by itself. (Other programs pass math expressions as strings int
 
 It currently has a very simple interface for testing purposes. Compile the file and use it as
 
-./<executeable-name> "2+2"
+./name-of-the-executeable "2+2"
+
 to evaluate the expression "2+2".
